@@ -5,5 +5,7 @@ import './modules/actions.js';
 import './modules/handlers.js';
 import './modules/attributes.js';
 import './modules/effects.js';
+import './components/modal.js';
+
 
 export default $;
